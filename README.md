@@ -1,5 +1,7 @@
 # Well-formed JSON.stringify
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 A proposal to prevent `JSON.stringify` from returning ill-formed Unicode strings.
 
 ## Status
